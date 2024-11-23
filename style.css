@@ -1,0 +1,62 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-decoration: none;
+    font-size: 60px;
+    background-color: black;
+
+}
+nav a {
+    text-decoration: none;
+    text-wrap: nowrap;
+}
+.nav-left{
+    color: white;
+    margin-right:150px;
+
+
+}
+.nav-right{
+    color: white;
+    margin-right:150px;
+}
+.banana{
+    background-color: yellow;
+}
+.Pulkit{
+    color: blue;
+    font-size:120px ;
+    text-align: center;
+}
+.Pulkit{
+    border-radius: 50%;
+    margin-left: 450px;
+}
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+pre{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.project{
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+    height: 450px;
+    width: 350px;
+    font-size: 30px;
+    background-color: aqua;
+}
